@@ -36,11 +36,10 @@
 
 
 ## 🎓 Certifications
-- Machine Learning, 45-hour professional training: Cognibot
-- Full Stack Web Development: ExcelR with Sathyabama Institute of Science and Technology
-- Software Engineering Job Simulation: JPMorgan Chase & Co. via Forage
-- Introduction to AI, Introduction to Cyber Security, Programming using Java: Infosys Springboard
-- MATLAB Fundamentals, MATLAB Programming Techniques, MATLAB Onramp: MathWorks
+- Machine Learning, 45-hour professional training: Cognibot (2025)
+- Full Stack Web Development: ExcelR with Sathyabama Institute of Science and Technology (2024)
+- Software Engineering Job Simulation: JPMorgan Chase & Co. via Forage (2024)
+- Also: Introduction to AI, Introduction to Cyber Security and Programming using Java (Infosys Springboard); MATLAB Fundamentals, MATLAB Programming Techniques, MATLAB Onramp and Object-Oriented Programming Onramp (MathWorks)
 
 ## 💼 Experience
 **IT Department Intern, Symega Food Ingredients Ltd.** (Dec 2024): hardware diagnostics, software deployment, network management, Hyper-V, Microsoft 365, Azure and endpoint security.
