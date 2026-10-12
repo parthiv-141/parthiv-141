@@ -3,8 +3,8 @@
 **Computer Science & Engineering graduate (2026)** from Sathyabama Institute of Science and Technology, based in Kerala, India. I build full-stack web apps and machine-learning projects, and I'm looking for **remote roles**.
 
 ## 🔭 What I'm working on
-- Full-stack apps with **Next.js, TypeScript and Supabase (PostgreSQL)**
-- Applied **machine learning** with Python and scikit-learn
+- Building **Inventory Manager**, a full-stack inventory and sales app with **Next.js, TypeScript and Supabase (PostgreSQL)**
+- Exploring applied **machine learning** with Python and scikit-learn
 
 ## 🛠️ Tech stack
 
