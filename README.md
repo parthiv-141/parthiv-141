@@ -29,7 +29,7 @@
 
 | Project | Stack | What it does |
 |---|---|---|
-| **Inventory Manager** | Next.js (App Router), TypeScript, Tailwind CSS, Supabase, Vercel | Full-stack inventory and sales app: product management (SKU, MRP, price, GST, stock), a Sell action built with Server Actions that blocks sales at zero stock, and a recent-sales log. |
+| **[Inventory Manager](https://github.com/parthiv-141/inventory-manager)** ([live demo](https://inventory-app-cyan-kappa.vercel.app)) | Next.js (App Router), TypeScript, Tailwind CSS, Supabase, Vercel | Full-stack inventory and sales app: product management (SKU, MRP, price, GST, stock), a Sell action built with Server Actions that blocks sales at zero stock, and a recent-sales log. |
 | **E-Commerce Website** | PHP, HTML, CSS, JavaScript | Responsive storefront with product browsing, live cart updates and checkout. |
 | **Fake News Detection System** | Python, scikit-learn, NLP (TF-IDF) | Text classifier evaluated on accuracy, precision and recall. |
 | **Crop Output Prediction** | Python, ML, MATLAB | Predicts crop yield from climate trends and pesticide usage; contributed to a peer-reviewed research paper. |
